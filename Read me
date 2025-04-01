@@ -1,0 +1,5 @@
+Install node module :
+   npm i
+Move into the directory and run
+  cd newsapp
+  npm start
